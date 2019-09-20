@@ -1,5 +1,8 @@
 # license-plate-OCR
 `TCS humAIn` The repo will contain code for the `OCR` on license plates.
+
+The conda env: `crnntf`
+
 # Input
 Let's test our model shall we?<br>
 <img src="Check.jpg" height=100 width=150>
